@@ -1,0 +1,1645 @@
+@media screen and (min-width: 1921px) {
+    #main {
+        background-size: 100%;
+        background-position: center;
+    }
+
+    #footer {
+        background-size: 100%;
+        background-position: center;
+    }
+}
+
+@media screen and (max-width: 1600px) {
+    #info #order #order-info img {
+        height: 550px;
+        width: 550px;
+        margin: 25px 0 0 -80px;
+    }
+}
+
+@media screen and (max-width: 1440px) {
+    #info #order #order-info img {
+        height: 500px;
+        width: 500px;
+        margin: 75px 0 0 -80px;
+    }
+}
+
+@media screen and (max-width: 1366px) {
+    #info #order #order-info img {
+        height: 450px;
+        width: 450px;
+        margin: 125px 0 0 -200px;
+    }
+
+    #form-info {
+        width: 620px !important;
+    }
+
+    button {
+        width: 280px;
+    }
+
+    .form-input {
+        width: 253px !important;
+    }
+
+    #header, #main-info, #guarantee, #kitchens, #numbers, #project, #quote, #video, #order, #footer-containers, #footer-bottom {
+        width: 1000px !important;
+    }
+
+    iframe {
+        width: 400px;
+        height: 250px;
+    }
+
+    .project-description {
+        margin: 12px 0 12px 30px !important;
+    }
+
+    .project-description br {
+        display: none;
+    }
+
+    #project-image {
+        margin-left: 30px !important;
+    }
+
+    #project-image img {
+        width: 550px;
+    }
+
+    #orange-block {
+        width: 350px !important;
+        height: 280px !important;
+    }
+
+    #orange-text-blocks {
+        width: 320px !important;
+        height: 250px !important;
+    }
+
+    #orange-text-block-top1 {
+        font-size: 145px !important;
+    }
+
+    #orange-text-block-top2 {
+        font-size: 65px !important;
+        margin-left: 0 !important;
+    }
+
+    #orange-text-block-bottom {
+        font-size: 55px !important;
+        margin-top: -30px !important;
+    }
+
+    #white-block {
+        height: 230px !important;
+    }
+
+    #quote-text div {
+        font-size: 16px;
+        margin-top: 15px !important;
+    }
+
+    #quote-text img {
+        width: 40px;
+        height: 35px;
+    }
+
+    #quote-autograph div {
+        font-size: 15px;
+    }
+
+    #quote-autograph img {
+        width: 120px;
+    }
+
+    #kitchens-text {
+        width: 840px !important;
+    }
+
+    .kitchen-image {
+        width: 600px;
+    }
+
+    .kitchen-number {
+        font-size: 75px !important;
+    }
+
+    .kitchen-name {
+        font-size: 24px !important;
+    }
+
+    .kitchen-price {
+        margin-top: 40px !important;
+    }
+
+    .slick-prev {
+        top: 130px !important;
+        left: 25px !important;
+    }
+
+    .slick-next {
+        top: 130px !important;
+        right: 405px !important;
+    }
+
+    .slick-dots {
+        left: 250px !important;
+    }
+
+    #second-guarantee {
+        margin-left: 40px !important;
+    }
+
+    #fourth-guarantee {
+        margin-left: 40px !important;
+    }
+}
+
+@media screen and (max-width: 1199px) {
+    #header, #main-info, #guarantee, #kitchens, #numbers, #project, #quote, #video, #order, #footer-containers, #footer-bottom {
+        width: 900px !important;
+    }
+
+    .text-strip, .text-strip span {
+        font-size: 30px !important;
+    }
+
+    .strip {
+        width: 90px;
+        height: 5px !important;
+    }
+
+    #kitchens-text, #video-description, #order-description {
+        font-size: 18px !important;
+    }
+
+    #networks-main {
+        right: 50px;
+    }
+
+    #guarantee {
+        padding-top: 50px !important;
+        margin-bottom: 230px !important;
+    }
+
+    #second-guarantee {
+        margin: 230px 0 0 -40px !important;
+    }
+
+    #third-guarantee {
+        margin-top: -20px !important;
+    }
+
+    #fourth-guarantee {
+        margin: 210px 0 0 -60px !important;
+    }
+
+    .kitchen-image {
+        width: 500px;
+    }
+
+    #kitchens-text {
+        width: 760px !important;
+    }
+
+    .slick-prev {
+        top: 100px !important;
+        left: 25px !important;
+    }
+
+    .slick-next {
+        top: 100px !important;
+        right: 405px !important;
+    }
+
+    .slick-dots {
+        left: 200px !important;
+        bottom: 15px !important;
+    }
+
+    #numbers {
+        margin: 35px auto 85px auto !important;
+    }
+
+    #info #numbers .number-container img {
+        max-height: 160px;
+    }
+
+    .number-container div {
+        font-size: 18px !important;
+    }
+
+    #project-image img {
+        width: 470px;
+    }
+
+    .project-head {
+        font-size: 22px !important;
+    }
+
+    .project-description {
+        font-size: 14px !important;
+    }
+
+    #quote {
+        margin: 80px auto 115px auto !important;
+    }
+
+    #orange-block {
+        width: 300px !important;
+        height: 240px !important;
+    }
+
+    #orange-text-blocks {
+        width: 270px !important;
+        height: 210px !important;
+    }
+
+    #orange-text-block-top1 {
+        font-size: 115px !important;
+    }
+
+    #orange-text-block-top2 {
+        font-size: 50px !important;
+        margin-left: 0 !important;
+    }
+
+    #orange-text-block-bottom {
+        font-size: 45px !important;
+        margin-top: -20px !important;
+    }
+
+    #white-block {
+        height: 190px !important;
+    }
+
+    #quote-text div {
+        font-size: 15px;
+        margin-top: 15px !important;
+    }
+
+    #quote-text img {
+        width: 40px;
+        height: 35px;
+    }
+
+    #quote-autograph div {
+        font-size: 15px;
+    }
+
+    #quote-autograph img {
+        width: 100px;
+    }
+
+    #video-containers {
+        margin: 50px 50px 0 50px !important;
+    }
+
+    iframe {
+        width: 380px;
+        height: 230px;
+    }
+
+    #order {
+        margin-top: 0 !important;
+    }
+
+    #order-description {
+        margin: 35px 0 0 112px !important;
+    }
+
+    #order-info {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    #info #order #order-info img {
+        display: none;
+    }
+
+    #order-container form {
+        margin: 0 auto 80px auto;
+    }
+
+    #form-info {
+        width: 700px !important;
+    }
+
+    button {
+        width: 320px;
+    }
+
+    .form-input {
+        width: 293px !important;
+    }
+
+    #info {
+        margin-bottom: -4px;
+    }
+
+    #networks-footer .facebook-logo, #networks-footer .instagram-logo {
+        margin: 50px 25px 80px 0 !important;
+    }
+
+    #networks-footer .vk-logo {
+        margin-top: 50px !important;
+    }
+
+    .footer-text-style3 {
+        font-size: 17px !important;
+        margin-bottom: 35px !important;
+    }
+
+    .footer-text-style3 img {
+        max-width: 19px;
+    }
+
+    #request #form-request {
+        width: 700px;
+        margin: 0 0 115px 10px !important;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    #header, #main-info, #guarantee, #kitchens, #numbers, #project, #quote, #video, #order, #footer-containers, #footer-bottom {
+        width: 650px !important;
+    }
+
+    #main #header #menu {
+        padding: 0 !important;
+    }
+
+    #main #header #menu ul li {
+        margin: 0 10px 0 10px;
+    }
+
+    #main-info h1 {
+        font-size: 40px;
+        width: 520px;
+    }
+
+    #main-info #key p {
+        font-size: 22px;
+        width: 430px;
+    }
+
+    #main-info #advantages div {
+        margin-right: 25px;
+    }
+
+    .strip {
+        width: 40px !important;
+        height: 4px !important;
+    }
+
+    .text-strip {
+        margin-left: 25px !important;
+    }
+
+    .text-strip, .text-strip span {
+        font-size: 24px !important;
+    }
+
+    #guarantee {
+        margin-bottom: 80px !important;
+    }
+
+    #second-guarantee {
+        margin: -20px 0 0 220px !important;
+    }
+
+    #second-guarantee .guarantee-number {
+        margin-left: -10px;
+    }
+
+    #third-guarantee {
+        margin-top: -20px !important;
+    }
+
+    #third-guarantee .guarantee-number {
+        margin-left: -25px;
+    }
+
+    #fourth-guarantee {
+        margin: -20px 0 0 270px !important;
+    }
+
+    #fourth-guarantee br {
+        display: none;
+    }
+
+    #fourth-guarantee .guarantee-number {
+        margin-left: -30px;
+    }
+
+    .guarantee-number {
+        font-size: 160px !important;
+    }
+
+    .guarantee-head {
+        margin: -100px 0 0 40px !important;
+    }
+
+    .guarantee-description {
+        margin: 10px 0 0 40px !important;
+    }
+
+    #kitchens-text, #video-description, #order-description {
+        font-size: 16px !important;
+    }
+
+    .kitchen-container {
+        flex-wrap: wrap;
+        justify-content: center !important;
+    }
+
+    .slick-prev {
+        top: 90px !important;
+        left: 85px !important;
+    }
+
+    .slick-next {
+        top: 90px !important;
+        right: 85px !important;
+    }
+
+    .slick-dots {
+        bottom: 270px !important;
+        left: 260px !important;
+    }
+
+    #kitchens-slick {
+        margin-top: 20px !important;
+    }
+
+    .kitchen-info {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        margin: 40px 0 0 0 !important;
+        width: 500px !important;
+    }
+
+    .kitchen-number {
+        font-size: 65px !important;
+    }
+
+    .kitchen-name {
+        font-size: 22px !important;
+    }
+
+    .kitchen-description, .kitchen-price {
+        width: 100%;
+    }
+
+    .kitchen-description {
+        margin-top: 0 !important;
+    }
+
+    .kitchen-parameters {
+        font-size: 16px !important;
+    }
+
+    .kitchen-values {
+        text-align: right !important;
+        font-size: 16px !important;
+    }
+
+    .kitchen-price {
+        margin-top: 20px !important;
+    }
+
+    #kitchens-text {
+        margin-left: 67px !important;
+        width: 580px !important
+    }
+
+    #video-description {
+        margin-left: 67px !important;
+        line-height: 1.75;
+    }
+
+    #order-description {
+        margin-left: 67px !important;
+    }
+
+    #info #numbers .number-container img {
+        max-height: 130px;
+    }
+
+    #numbers {
+        margin-bottom: 50px !important;
+    }
+
+    .number-container div {
+        font-size: 16px !important;
+    }
+
+    .number-container br {
+        display: none;
+    }
+
+    #project-container {
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-top: 30px !important;
+    }
+
+    #project-info {
+        max-width: 650px !important;
+    }
+
+    .project-block {
+        width: 650px !important;
+    }
+
+    #project-image img {
+        width: 550px;
+        margin-top: 20px;
+    }
+
+    #quote {
+        margin: 45px auto 75px auto !important;
+    }
+
+    #orange-block {
+        width: 220px !important;
+        height: 200px !important;
+    }
+
+    #orange-text-blocks {
+        width: 190px !important;
+        height: 170px !important;
+    }
+
+    #orange-text-block-top1 {
+        margin-left: 15px !important;
+        font-size: 90px !important;
+    }
+
+    #orange-text-block-top2 {
+        font-size: 38px !important;
+        margin-left: 0 !important;
+    }
+
+    #orange-text-block-bottom {
+        font-size: 33px !important;
+        margin-top: -10px !important;
+    }
+
+    #white-block {
+        height: 160px !important;
+    }
+
+    #quote-text {
+        margin: 10px 15px 0 0 !important;
+    }
+
+    #quote-text div {
+        font-size: 13px;
+        margin: 10px 0 0 10px !important;
+    }
+
+    #quote-text img {
+        width: 30px;
+        height: 26px;
+    }
+
+    #quote-autograph div {
+        font-size: 12px;
+        margin-right: 10px !important;
+    }
+
+    #quote-autograph img {
+        width: 80px;
+    }
+
+    #video-description {
+        margin-top: 30px !important;
+    }
+
+    #video-containers {
+        justify-content: center !important;
+        margin-top: 30px !important;
+    }
+
+    iframe {
+        width: 500px;
+        height: 300px;
+    }
+
+    .video-container div {
+        margin-bottom: 30px !important;
+    }
+
+    #form-info {
+        height: 280px !important;
+        width: 580px !important;
+        box-shadow: 7px 5px 20px 11px rgba(224, 198, 173, 0.25) !important;
+        margin-top: 30px !important;
+    }
+
+    .form-inputs {
+        justify-content: space-evenly !important;
+    }
+
+    #form-text {
+        padding: 15px 0 0 5px !important;
+    }
+
+    #form-info button {
+        height: 50px;
+        width: 255px;
+    }
+
+    #form-info .form-input {
+        height: 46px;
+        width: 228px !important;
+    }
+
+    #order-description {
+        margin-top: 30px !important;
+    }
+
+    #order-info img {
+        height: 350px !important;
+        width: 350px !important;
+    }
+
+    #order-container form {
+        margin: 0 auto 50px auto;
+    }
+
+    #order-error {
+        font-size: 16px !important;
+    }
+
+    #footer-containers {
+        flex-wrap: wrap;
+        padding: 0 0 30px 0 !important;
+    }
+
+    #networks-footer {
+        display: flex;
+        justify-content: center;
+    }
+
+    #networks-footer .vk-logo, #networks-footer .instagram-logo, #networks-footer .facebook-logo {
+        margin-top: 30px !important;
+        margin-bottom: 20px !important;
+    }
+
+    .first-height {
+        display: block !important;
+    }
+
+    .footer-text-style2 {
+        margin: 0 !important;
+    }
+
+    .footer-text-style3 {
+        margin-bottom: 0 !important;
+    }
+
+    .footer-container {
+        width: 310px;
+        text-align: center !important;
+        padding-top: 30px;
+        margin: auto 0;
+    }
+
+    .footer-container:nth-child(3) {
+        order: 2;
+    }
+
+    .footer-container:nth-child(4) {
+        order: 1;
+    }
+
+    #form-request {
+        width: 550px !important;
+        height: 430px !important;
+    }
+
+    #request-error {
+        font-size: 16px !important;
+    }
+
+    #request-header {
+        margin-top: 20px !important;
+    }
+
+    #form-request .form-inputs {
+        margin-top: 0 !important;
+    }
+
+    #form-request .form-input {
+        width: 223px !important;
+        height: 50px;
+    }
+
+    #form-request button {
+        width: 250px;
+        height: 50px;
+    }
+
+    #form-request img {
+        width: 170px;
+        margin: 45px 0 0 20px !important;
+    }
+
+    #request-description {
+        margin: 0 50px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    #header, #main-info, #guarantee, #kitchens, #numbers, #project, #quote, #video, #order, #footer-containers, #footer-bottom {
+        width: 540px !important;
+    }
+
+    #main {
+        height: 750px !important;
+    }
+
+    #networks-main {
+        height: 750px !important;
+    }
+
+    #header {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    ul {
+        padding: 10px 0 0 0 !important;
+    }
+
+    #main-info h1 {
+        font-size: 32px;
+    }
+
+    #main-info #key p {
+        font-size: 16px;
+    }
+
+    #key-logo {
+        width: 90px;
+        height: 100px;
+    }
+
+    #main-info button {
+        font-size: 16px;
+        width: 250px;
+        height: 55px;
+    }
+
+    .strip {
+        display: none;
+    }
+
+    .text-strip {
+        margin-left: 0 !important;
+    }
+
+    #guarantee {
+        padding-top: 30px !important;
+    }
+
+    .guarantee-number {
+        font-size: 140px !important;
+    }
+
+    .guarantee-head {
+        font-size: 22px !important;
+    }
+
+    .guarantee-description {
+        font-size: 13px !important;
+    }
+
+    #first-guarantee {
+        width: 380px !important;
+    }
+
+    #first-guarantee .guarantee-number {
+        margin-left: 5px;
+    }
+
+    #second-guarantee {
+        width: 360px !important;
+        margin-left: 180px !important;
+    }
+
+    #third-guarantee {
+        width: 360px !important;
+    }
+
+    #third-guarantee .guarantee-number {
+        margin-left: -5px;
+    }
+
+    #fourth-guarantee {
+        width: 330px !important;
+        margin-left: 210px !important;
+    }
+
+    #fourth-guarantee .guarantee-number {
+        margin-left: -20px;
+    }
+
+    #fourth-guarantee .guarantee-head {
+        margin-top: -80px !important;
+    }
+
+    #guarantee {
+        height: 700px !important;
+        margin-bottom: 10px !important;
+    }
+
+    .headline {
+        flex-wrap: wrap;
+        justify-content: center;
+        text-align: center;
+    }
+
+    #kitchens-text, #video-description, #order-description {
+        font-size: 14px !important;
+        width: 500px !important;
+        margin: 30px auto 0 auto !important;
+        text-align: center !important;
+    }
+
+    #kitchens .text-strip span {
+        margin-left: 0 !important;
+    }
+
+    .slick-prev {
+        top: 90px !important;
+        left: 40px !important;
+    }
+
+    .slick-next {
+        top: 90px !important;
+        right: 40px !important;
+    }
+
+    .slick-dots {
+        bottom: 270px !important;
+        left: 205px !important;
+    }
+
+    .kitchen-image {
+        width: 480px !important;
+    }
+
+    .number-container img {
+        max-height: 110px !important;
+    }
+
+    .project-block {
+        width: 540px !important;
+    }
+
+    #project-image img {
+        width: 500px;
+    }
+
+    #form-info {
+        width: 540px !important;
+    }
+
+    #form-info button {
+        height: 50px;
+        width: 245px;
+    }
+
+    #form-info .form-input {
+        height: 46px;
+        width: 218px !important;
+    }
+
+    #form-text {
+        font-size: 24px !important;
+    }
+
+    .footer-container:first-child, .footer-container:nth-child(4) {
+        width: 230px !important;
+    }
+
+    #quote-text div {
+        width: 250px;
+        margin: 0 0 10px 10px !important;
+    }
+
+    #quote-text div br {
+        display: none;
+    }
+
+    #form-request {
+        width: 400px !important;
+        height: 420px !important;
+    }
+
+    #request-header {
+        font-size: 28px !important;
+    }
+
+    #request-description {
+        font-size: 16px !important;
+    }
+
+    #form-request .form-input {
+        width: 183px !important;
+        height: 50px;
+        font-size: 16px !important;
+    }
+
+    #form-request button {
+        width: 210px;
+        height: 50px;
+        font-size: 16px !important;
+    }
+
+    #form-request img {
+        width: 140px;
+        margin: 95px 0 0 0 !important;
+    }
+
+    #form-request .form-inputs {
+        margin: 0 !important;
+    }
+
+    #request {
+        height: 780px !important;
+    }
+}
+
+@media screen and (max-width: 639px) {
+    #header, #main-info, #guarantee, #kitchens, #numbers, #project, #quote, #video, #order, #footer-containers, #footer-bottom {
+        width: 400px !important;
+    }
+
+    #burger {
+        display: block;
+        margin-right: 30px;
+    }
+
+    #header {
+        position: relative;
+        width: 100% !important;
+    }
+
+    #header.menu-open {
+        background: rgba(0, 0, 0, 0.8);
+    }
+
+    #header.menu-open #menu {
+        display: block !important;
+    }
+
+    #menu {
+        top: 66px;
+        position: fixed;
+        background: rgba(0, 0, 0, 0.8);
+        z-index: 3;
+        text-align: center;
+        display: none !important;
+        height: 100%;
+    }
+
+    #menu ul {
+        display: block !important;
+    }
+
+    #menu ul li {
+        padding: 20px 0;
+    }
+
+    #main-info h1 {
+        font-size: 26px;
+        line-height: 1.4;
+        width: 360px;
+    }
+
+    #main-info #key p {
+        width: 308px;
+        margin-left: -5px !important;
+    }
+
+    #networks-main {
+        right: 25px;
+    }
+
+    #key-logo {
+        width: 70px;
+        height: 80px;
+    }
+
+    #guarantee {
+        height: 750px !important;
+    }
+
+    #guarantee-container {
+        justify-content: center;
+    }
+
+    #first-guarantee, #second-guarantee, #third-guarantee, #fourth-guarantee {
+        width: 380px !important;
+        margin: 0 !important;
+    }
+
+    .guarantee-number {
+        margin: -20px 0 0 0 !important;
+    }
+
+    .guarantee-head, .guarantee-description {
+        margin-left: 55px !important;
+    }
+
+    #kitchens-text, #video-description, #order-description {
+        width: 350px !important;
+    }
+
+    .kitchen-info {
+        justify-content: center;
+    }
+
+    .kitchen-image {
+        width: 370px !important;
+    }
+
+    .kitchen-name {
+        width: 350px;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    .slick-prev {
+        top: 60px !important;
+        left: 25px !important;
+    }
+
+    .slick-next {
+        top: 60px !important;
+        right: 25px !important;
+    }
+
+    .slick-dots {
+        bottom: 310px !important;
+        left: 135px !important;
+    }
+
+    #numbers {
+        flex-wrap: wrap;
+    }
+
+    .number-container {
+        margin-bottom: 20px;
+    }
+
+    .project-block {
+        width: 400px !important;
+    }
+
+    #project-image img {
+        width: 350px;
+    }
+
+    #quote {
+        justify-content: center;
+        margin: 70px auto 50px auto !important;
+    }
+
+    #orange-block {
+        width: 400px !important;
+        height: 100px !important;
+        margin-top: -100px;
+        box-shadow: 5px 4px 20px 0 rgba(223, 197, 171, 0.5) !important;
+    }
+
+    #white-block {
+        width: 370px !important;
+        height: 220px !important;
+        justify-content: flex-end !important;
+    }
+
+    #orange-text-blocks {
+        display: flex;
+        width: 370px !important;
+        height: 70px !important;
+        justify-content: center;
+    }
+
+    #orange-text-block-top {
+        width: auto !important;
+    }
+
+    #orange-text-block-top1 {
+        font-size: 40px !important;
+        margin: 0 10px 0 0 !important;
+    }
+
+    #orange-text-block-top2 {
+        font-size: 40px !important;
+        transform: none !important;
+        margin: 0 10px 0 0 !important;
+    }
+
+    #orange-text-block-bottom {
+        font-size: 40px !important;
+        margin: 0 !important;
+        align-items: center;
+    }
+
+    #quote-text div {
+        width: 300px !important;
+    }
+
+    #quote-autograph {
+        margin-bottom: 10px !important;
+    }
+
+    iframe {
+        width: 400px;
+        height: 250px;
+    }
+
+    #form-info {
+        width: 350px !important;
+        height: 450px !important;
+    }
+
+    #order-info img {
+        height: 250px !important;
+        width: 250px !important;
+    }
+
+    #footer {
+        height: 550px !important;
+        background-size: auto 100%;
+        background-position: top center;
+    }
+
+    #footer-containers {
+        justify-content: center !important;
+    }
+
+    #form-request {
+        width: 300px !important;
+        height: 420px !important;
+    }
+
+    #form-request .form-inputs {
+        margin-top: 10px !important;
+    }
+
+    #form-request .form-input {
+        margin-top: 10px !important;
+    }
+
+    #form-request button {
+        margin-top: 10px !important;
+    }
+
+    #form-request img {
+        display: none;
+    }
+
+    #form-request i {
+        top: 10px !important;
+        right: 10px !important;
+        font-size: 20px !important;
+    }
+}
+
+@media screen and (max-width: 479px) {
+    #header, #main-info, #guarantee, #kitchens, #numbers, #project, #quote, #video, #order, #footer-containers, #footer-bottom {
+        width: 300px !important;
+    }
+
+    #main {
+        height: 650px !important;
+    }
+
+    #header {
+        width: 100% !important;
+    }
+
+    #main-info {
+        text-align: center;
+    }
+
+    #main-info h1 {
+        font-size: 23px;
+        line-height: 1.5;
+        width: 300px;
+        text-align: center;
+        margin-top: 50px !important;
+    }
+
+    #main-info #key p {
+        font-size: 14px !important;
+        width: 200px;
+        text-align: center;
+        margin-left: -5px !important;
+    }
+
+    #key {
+        justify-content: center;
+        margin-top: 30px !important;
+    }
+
+    #main-info button {
+        width: 200px;
+        margin-top: 40px !important;
+    }
+
+    #networks-main {
+        flex-direction: row;
+        justify-content: space-evenly;
+        align-items: center;
+        width: 300px;
+        height: 50px !important;
+        position: relative;
+        margin: 20px auto 0 auto;
+        right: 0;
+    }
+
+    #networks-main img {
+        margin-bottom: 0 !important;
+    }
+
+    #advantages {
+        flex-wrap: wrap;
+        justify-content: center;
+        width: 200px;
+        margin: 30px auto 0 auto !important;
+    }
+
+    #advantages div {
+        margin: 10px 0 10px 0 !important;
+    }
+
+    #advantages img {
+        display: none;
+    }
+
+    #guarantee {
+        height: 915px !important;
+    }
+
+    #kitchens-text, #video-description, #order-description {
+        width: 270px !important;
+        margin-top: 20px !important;
+    }
+
+    .text-strip {
+        width: 270px !important;
+        font-size: 22px !important;
+    }
+
+    .text-strip span {
+        font-size: 22px !important;
+    }
+
+    .kitchen-info {
+        width: 300px !important;
+    }
+
+    .kitchen-price {
+        font-size: 16px !important;
+    }
+
+    .kitchen-price img {
+        margin-right: 5px !important;
+    }
+
+    .kitchen-number {
+        font-size: 50px !important;
+    }
+
+    .slick-prev {
+        top: 40px !important;
+        left: 10px !important;
+    }
+
+    .slick-next {
+        top: 40px !important;
+        right: 10px !important;
+    }
+
+    .slick-dots {
+        bottom: 320px !important;
+        left: 85px !important;
+    }
+
+    #numbers {
+        margin-top: 0 !important;
+        margin-bottom: 40px !important;
+    }
+
+    .number-container div {
+        font-size: 16px !important;
+    }
+
+    .number-container img {
+        max-height: 80px !important;
+    }
+
+    #project-container {
+        margin-top: 20px !important;
+    }
+
+    .project-block {
+        width: 300px !important;
+    }
+
+    .project-head {
+        font-size: 20px !important;
+    }
+
+    #project-image img {
+        width: 250px;
+    }
+
+    #quote {
+        justify-content: center;
+        margin: 60px auto 40px auto !important;
+    }
+
+    #orange-block {
+        width: 300px !important;
+        height: 80px !important;
+    }
+
+    #white-block {
+        width: 270px !important;
+        height: 220px !important;
+    }
+
+    #orange-text-blocks {
+        width: 270px !important;
+        height: 50px !important;
+    }
+
+    #orange-text-block-top1, #orange-text-block-top2, #orange-text-block-bottom {
+        font-size: 30px !important;
+    }
+
+    #quote-text {
+        margin: 10px 5px 0 10px !important;
+    }
+
+    #quote-autograph {
+        margin-right: 5px !important;
+    }
+
+    #quote-autograph div {
+        margin-right: 5px !important;
+    }
+
+    #quote-autograph img {
+        width: 60px !important;
+    }
+
+    #video-containers {
+        margin-top: 20px !important;
+    }
+
+    iframe {
+        width: 300px;
+        height: 200px;
+    }
+
+    #form-text {
+        font-size: 20px !important;
+    }
+
+    #form-info {
+        width: 300px !important;
+        height: 435px !important;
+    }
+
+    #order-info img {
+        height: 200px !important;
+        width: 200px !important;
+    }
+
+    #order-error {
+        font-size: 14px !important;
+    }
+
+    .footer-text-style1 {
+        font-size: 18px !important;
+    }
+
+    #form-request {
+        width: 250px !important;
+        height: 340px !important;
+    }
+
+    #request-error {
+        font-size: 14px !important;
+    }
+
+    #form-request .form-input {
+        width: 163px !important;
+        height: 30px;
+        font-size: 14px !important;
+    }
+
+    #form-request button {
+        width: 190px;
+        height: 30px;
+        font-size: 14px !important;
+    }
+
+    #request-header {
+        font-size: 24px !important;
+    }
+
+    #request-description {
+        font-size: 14px !important;
+        margin: 10px 40px 0 40px !important;
+    }
+
+    #accept {
+        font-size: 12px !important;
+    }
+
+    #request {
+        height: 680px !important;
+    }
+}
+
+@media screen and (max-width: 359px) {
+    #header, #main-info, #guarantee, #kitchens, #numbers, #project, #quote, #video, #order, #footer-containers, #footer-bottom {
+        width: 270px !important;
+    }
+
+    #header {
+        width: 100% !important;
+    }
+
+    #main-info h1 {
+        width: 270px;
+        margin-top: 40px !important;
+    }
+
+    #main-info p {
+        font-size: 13px !important;
+    }
+
+    #main-info button {
+        margin-top: 30px !important;
+    }
+
+    #networks-main {
+        width: 270px;
+    }
+
+    #guarantee {
+        height: 1000px !important;
+    }
+
+    #kitchens-text, #video-description, #order-description {
+        width: 250px !important;
+    }
+
+    .strip {
+        height: 3px !important;
+    }
+
+    .text-strip {
+        font-size: 20px !important;
+    }
+
+    .text-strip span {
+        font-size: 20px !important;
+    }
+
+    .kitchen-info {
+        width: 270px !important;
+    }
+
+    .kitchen-parameters, .kitchen-values, .kitchen-price {
+        font-size: 14px !important;
+    }
+
+    .kitchen-number {
+        font-size: 45px !important;
+    }
+
+    .slick-prev {
+        top: 30px !important;
+        left: 10px !important;
+    }
+
+    .slick-next {
+        top: 30px !important;
+        right: 10px !important;
+    }
+
+    .slick-dots {
+        bottom: 290px !important;
+        left: 70px !important;
+    }
+
+    .project-block {
+        width: 270px !important;
+    }
+
+    .project-head {
+        font-size: 18px !important;
+    }
+
+    #orange-block {
+        width: 270px !important;
+    }
+
+    #white-block {
+        width: 240px !important;
+        height: 260px !important;
+    }
+
+    #orange-text-blocks {
+        width: 240px !important;
+    }
+
+    #orange-text-block-top1, #orange-text-block-top2, #orange-text-block-bottom {
+        font-size: 25px !important;
+    }
+
+    #quote-autograph div {
+        margin-right: 0 !important;
+    }
+
+    iframe {
+        width: 270px;
+        height: 170px;
+    }
+
+    .video-container div {
+        font-size: 16px !important;
+    }
+
+    #form-info {
+        width: 270px !important;
+    }
+
+    #form-info button {
+        font-size: 16px !important;
+        height: 50px;
+        width: 235px;
+    }
+
+    #form-info .form-input {
+        font-size: 16px !important;
+        height: 46px;
+        width: 208px !important;
+    }
+
+    #form-info .form-input::placeholder {
+        font-size: 16px !important;
+    }
+
+    #order-info img {
+        height: 150px !important;
+        width: 150px !important;
+    }
+
+    .footer-text-style1 {
+        font-size: 16px !important;
+    }
+
+    .footer-text-style2 {
+        font-size: 14px !important;
+    }
+
+    #request-header {
+        font-size: 20px !important;
+    }
+
+    #request-description {
+        font-size: 14px !important;
+        margin: 10px 20px 0 20px !important;
+    }
+
+    #accept {
+        margin: 10px 15px 0 15px !important;
+    }
+
+    #form-request {
+        width: 220px !important;
+        height: 350px !important;
+    }
+
+    #request-error {
+        font-size: 12px !important;
+    }
+}
